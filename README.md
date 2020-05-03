@@ -1,4 +1,4 @@
-# batmanmerchandise
+# batman_merchandise
 A simple website which consists of content related to Batman and an option to buy/order Batman merchandise.
 This project was done after the completion of my Web Development course on InternTheory.
 
